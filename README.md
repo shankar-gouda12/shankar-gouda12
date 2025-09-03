@@ -116,18 +116,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
 ---
-
-## 🐍 Contribution Graph 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shankar-gouda12/shankar-gouda12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shankar-gouda12&color=blue" alt="Profile Views" />
 </p>
