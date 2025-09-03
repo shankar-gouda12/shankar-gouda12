@@ -1,13 +1,10 @@
 <!-- T
 
 yping / Stylish Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Now%20Building-✨%20AI%2FML%20Projects%20✨-1E90FF?style=flat-square&logo=github" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:87CEFA&height=1&section=header&reversal=true&text=%20" />
-</p>
 
 
 
