@@ -2,10 +2,8 @@
 
 yping / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=55&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=55&duration=4000&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" alt="Typing SVG" />
 </h1>
-
-
 
 
 
