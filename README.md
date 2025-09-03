@@ -2,8 +2,12 @@
 
 yping / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=55&duration=4000&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=55&duration=4000&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="160" alt="pulse"/>
+</p>
 
 
 
