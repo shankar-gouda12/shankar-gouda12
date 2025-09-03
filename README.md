@@ -118,8 +118,7 @@
 
 ---
 
-## 🐍 Contribution Graph  
-![Snake animation](https://raw.githubusercontent.com/shankar-gouda12/shankar-gouda12/output/dist/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph 
 
 
 <p align="center">
