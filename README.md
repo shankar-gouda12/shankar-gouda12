@@ -2,8 +2,9 @@
 
 yping / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" alt="Typing SVG" />
+  <img src="assets/blake-header.png" alt="Hi, i’m Shankar gouda 👋" width="800"/>
 </h1>
+
 
 
 
