@@ -65,13 +65,6 @@
 
 ---
 
-## 📊 LeetCode Dashboard  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
@@ -79,6 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shankar-gouda12&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-gouda12&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankar-gouda12&layout=compact&theme=radical" alt="Top Languages" />
+  <p align="center">
+  <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
 </p>
 
 ---
