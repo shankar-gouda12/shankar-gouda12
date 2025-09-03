@@ -1,6 +1,6 @@
 <!-- Typing / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shankar+Gouda+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shankar+Gouda+👋" alt="Typing SVG" />
 </h1>
 
 <!-- Male + Computer GIF -->
@@ -8,14 +8,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
---- 
+---
 
 ## 👨‍💻 About Me  
-- 🎓 Completed **B.Sc. in Computer Science**, currently pursuing **MCA**  
-- 🚀 Learning **AI/ML, Web Development, Data Science**  
-- 🌱 Building strong foundations in **DSA, SQL, and Python**  
-- 🎯 Career Goal: Become an **AI/ML Engineer | Web Developer | Data Scientist**  
-- 📫 Reach me at: **oxyshankar@gmail.com**  
+
+🎓 Currently pursuing **MCA** (Master of Computer Applications) and completed **B.Sc. in Computer Science**.  
+🚀 Aspiring **AI/ML Engineer, Data Scientist, and Full-Stack Web Developer**.  
+💡 Passionate about **Data Structures, Algorithms, and Problem Solving**.  
+📊 Actively practicing coding challenges on **LeetCode**.  
+🌱 Learning and exploring **cutting-edge technologies in AI, ML, and Web Development**.  
+🎯 Goal: To build **scalable intelligent systems** and contribute to impactful projects in the tech industry.  
 
 ---
 
@@ -63,11 +65,11 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 📊 LeetCode Dashboard  
 
-- 🛒 [Amazon Clone](https://github.com/shankar-gouda12/amazon-clone)  
-- 📊 [Data Analysis Projects](https://github.com/shankar-gouda12/data-analysis)  
-- 💻 More exciting projects coming soon...  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
 
 ---
 
@@ -77,18 +79,31 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shankar-gouda12&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-gouda12&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankar-gouda12&layout=compact&theme=radical" alt="Top Languages" />
-  <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
-</p>
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-gouda-672505366/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oxyshankar@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/shankar_gouda/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shankar-gouda-672505366/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:oxyshankar@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shankar_gouda/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shankar-gouda12/shankar-gouda12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
