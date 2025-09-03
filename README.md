@@ -102,9 +102,12 @@ yping / Stylish Header -->
   <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
 </p>
 </p>
-### 💻 HackerRank Dashboard  
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/oxyshankar">
+    <img src="https://img.shields.io/badge/View%20My%20HackerRank%20Dashboard-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
-[![HackerRank](https://img.shields.io/badge/View%20My%20HackerRank%20Dashboard-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/oxyshankar)
 
 ---
 
