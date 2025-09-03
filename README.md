@@ -6,12 +6,6 @@ yping / Stylish Header -->
 </h1>
 
 
-
-
-
-
-
-
 <!-- Male + Computer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -108,6 +102,9 @@ yping / Stylish Header -->
   <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
 </p>
 </p>
+### 💻 HackerRank Dashboard  
+
+[![HackerRank](https://img.shields.io/badge/View%20My%20HackerRank%20Dashboard-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/oxyshankar)
 
 ---
 
