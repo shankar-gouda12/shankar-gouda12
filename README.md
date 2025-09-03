@@ -1,14 +1,21 @@
-<!-- Typing Animation -->
+<!-- Typing / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&width=500&lines=Hi%2C+I'm+Shankar+Gouda+👋;Aspiring+AI%2FML+Engineer;Future+Web+Developer;Passionate+Data+Scientist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shankar+Gouda+👨‍💻" alt="Typing SVG" />
 </h1>
 
-<!-- Coding GIF -->
+<!-- Male + Computer GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
+
+## 📊 LeetCode Dashboard  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shankar_gouda?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
+
 
 ## 👨‍💻 About Me  
 - 🎓 Completed **B.Sc. in Computer Science**, currently pursuing **MCA**  
