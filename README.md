@@ -1,7 +1,8 @@
 <!-- Typing / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shankar+Gouda+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shankar+Gouda+👋" alt="Typing SVG" />
 </h1>
+
 
 <!-- Male + Computer GIF -->
 <p align="center">
