@@ -1,7 +1,8 @@
 <!-- Typing / Stylish Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=40&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shankar+Gouda+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=50&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shankar+Gouda+👋" alt="Typing SVG" />
 </h1>
+
 
 
 
