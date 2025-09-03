@@ -1,12 +1,12 @@
 <!-- T
 
 yping / Stylish Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=55&duration=4000&pause=1000&color=DAA520&center=true&vCenter=true&width=900&lines=Hi%2C+i’m+Shankar+gouda+👋" />
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Now%20Building-✨%20AI%2FML%20Projects%20✨-1E90FF?style=flat-square&logo=github" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="160" alt="pulse"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:87CEFA&height=1&section=header&reversal=true&text=%20" />
 </p>
 
 
